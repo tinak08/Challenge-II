@@ -16,3 +16,7 @@ In case we need to set the IMDS as the desired way to retrieve the data , we can
 
 
 I have set up the code on the basis of IMDS and the output is getting displayed in json format.
+
+
+Also setup a small utility(shell scripting)to retrieve the metadata information for any particular key
+It first displays the list of keys , reads any key input from the user and then displays the information.
